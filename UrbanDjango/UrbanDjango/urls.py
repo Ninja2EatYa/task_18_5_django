@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from task3.views import platform_tmpl, cart_tmpl, games_tmpl
+from task4.views import platform_tmpl, cart_tmpl, games_tmpl
 
 
 urlpatterns = [
